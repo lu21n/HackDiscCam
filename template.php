@@ -87,7 +87,7 @@
 
 <body>
 
-          <h1 class="logo cursive">
+          <h1>
               Place your template here.
           </h1>
 
